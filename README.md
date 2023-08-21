@@ -6,7 +6,7 @@ I'm Nina, a software engineer living in Cambridge, MA working at [Solo.io](https
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=npolshakova&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26%22"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=npolshakova&theme=vue-dark&hide_border=true">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=npolshakova&theme=vue-dark&hide_border=true&theme=algolia&ount_private=true&line_height=26%22">
 </p>
 
 <!--
